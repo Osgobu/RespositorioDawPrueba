@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for i in range (0, 5):
-    print("No se puede copiar en Programacion")
+    print("Esatre atento a las explicaciones para preguntar lo mismo 20 veces")
